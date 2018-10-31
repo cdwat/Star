@@ -1,1 +1,2 @@
-# Star
+# STAR Privacy Policy
+
