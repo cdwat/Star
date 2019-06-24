@@ -192,5 +192,4 @@ Addenda: This Agreement incorporates the following documents (and no others) by 
 * End-User License Agreement https://raw.githubusercontent.com/cdwat/Star/master/EULA.md
 
 For any questions, inquiries, or complaints relating to your privacy, please send an email to:
-
 staroncampus@gmail.com
