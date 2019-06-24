@@ -1,4 +1,5 @@
 STAR Privacy Policy
+
 Last Updated: June 23, 2019
 
 This Privacy Policy explains the information that the STAR app collects when you use its services, how that information is used, with whom it may be shared, and your privacy choices.
