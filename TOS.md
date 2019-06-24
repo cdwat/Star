@@ -189,8 +189,8 @@ Third Parties: We may provide links to and integrations with websites operated b
 Entire Agreement: This Agreement constitutes the entire understanding of the parties and supersedes all prior understandings regarding the subject matter hereof and may not be modified except in accordance with Section 1 or in a document executed by authorized representatives of STAR. If you have a signed agreement with STAR, any conflicting term of that agreement will prevail over the terms hereof, but only as to the subject matter of that agreement.
 
 Addenda: This Agreement incorporates the following documents (and no others) by reference:
-* Privacy Policy https://raw.githubusercontent.com/cdwat/Star/master/PRIVACY.md
-* End-User License Agreement https://raw.githubusercontent.com/cdwat/Star/master/EULA.md
+* Privacy Policy: https://raw.githubusercontent.com/cdwat/Star/master/PRIVACY.md
+* End-User License Agreement: https://raw.githubusercontent.com/cdwat/Star/master/EULA.md
 
 For any questions, inquiries, or complaints relating to your privacy, please send an email to:
 staroncampus@gmail.com
