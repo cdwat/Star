@@ -161,5 +161,4 @@ California residents have the right to opt out of disclosing information to thir
 ================
 
 For any questions, inquiries, or complaints relating to your privacy, please send an email to:
-
 staroncampus@gmail.com
