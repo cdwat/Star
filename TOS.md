@@ -24,6 +24,7 @@ Service License: Subject to the terms hereof, we grant you access to our Service
 The features available to you may change from time to time.
 
 Downloadable Software: We may offer applications for devices ("Apps") directly or through third-party stores. Apps are governed by our End-User License Agreement ("EULA").
+https://raw.githubusercontent.com/cdwat/Star/master/EULA.md
 
 3․ Accounts
 ================
@@ -99,6 +100,7 @@ By submitting a video, you grant STAR permission to:
 * Distribute the video via our APIs;
 * Transcode the video (create compressed versions of your video file that are optimized for streaming); and
 * Generate stills (i.e., "thumbnails") from your video to represent it.
+
 By enabling access to your video to any third party, you grant each such person permission to stream (and/or download or embed, as applicable) your video. For the purposes of this Section 5.1, your video includes its title, description, tags, and other metadata.
 
 The license period begins when you submit the video to STAR and ends when you or STAR delete it; provided that STAR may retain archival copies: 
