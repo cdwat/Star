@@ -3,6 +3,8 @@ Last Updated: June 23, 2019
 
 This Privacy Policy explains the information that the STAR app collects when you use its services, how that information is used, with whom it may be shared, and your privacy choices.
 
+----
+
 1. Introduction.
 Who we are and what we do
 This Privacy Policy covers the development team behind the STAR app (collectively, "STAR," "we" "us" or "our"). We provide a video-first selling and promotion application for iOS.
@@ -10,8 +12,12 @@ This Privacy Policy covers the development team behind the STAR app (collectivel
 Acceptance and Changes
 By registering for, downloading, or using our services, you accept this Privacy Policy, which is part of our Terms of Service. We may modify this Privacy Policy from time to time. We will post any modified version of our Privacy Policy at https://raw.githubusercontent.com/cdwat/Star/master/PRIVACY.md
 
+----
+
 2. Children's Privacy.
 We do not knowingly collect information of persons who are under the minimum required ages specified herein. Persons within the U.S. must be at least 13. Persons who are under 18 must obtain parental consent to use our services.
+
+----
 
 3. Data We Collect About You.
 We collect information about you when you use our services. In addition, third parties may collect information about you when you use our services. Collected information may include or reflect personal information that could identify you, as well as non-personal information. We refer to your information as "your data" for short.
@@ -38,6 +44,8 @@ We automatically collect certain types of data when you use our services, regard
 Information Collected by Third Parties
 Some third parties may collect data about you when you use our services. This may include data you submit (such as your phone number) or automatically-collected information (in the case of third-party analytics providers and advertisers).
 
+----
+
 4. How We Use Your Data.
 We may use your data for the following purposes:
 • Identification and authentication: We use your data to verify you when you access your account.
@@ -51,6 +59,8 @@ We may use your data for the following purposes:
 
 We may use algorithms and other automated means to implement any of the above.
 
+----
+
 5. With Whom We Share Your Data.
 We share data with third parties as follows:
 • As you instruct: We may make your profile and videos available to others as you instruct in using our services. We may share your data with persons to whom you have granted account-level access.
@@ -62,6 +72,8 @@ We share data with third parties as follows:
 • Aggregated or anonymized information: We may publicly disclose non-personal aggregated or anonymized information such as our number of visitors and registered users.
 
 We use reasonable efforts to vet vendors for their privacy and data security practices. We require that such vendors agree to protect the data we share.
+
+----
 
 6. Legal and Safety-Related Disclosures.
 We may disclose your data in response to official requests (e.g., court orders, subpoenas, search warrants, national security requests, etc.) ("requests") that we receive from government authorities or parties to legal proceedings.
@@ -76,6 +88,8 @@ We may disclose user data in situations involving legal claims against us or one
 
 We may share your data with potential transaction partners, advisors, and others in the event our company is, in whole or part, acquired by a third party. In such case, we will use reasonable efforts to require the acquiring entity to comply with this Privacy Policy.
 
+----
+
 7. Data Retention.
 We retain your data for as long as you have an account. When you close an account, we will delete its content, including its videos. 
 
@@ -89,6 +103,8 @@ We retain deleted videos on our servers for a short period in case you wish to r
 
 If we receive legal process pertaining to your account, we will retain your data for as long as we in good faith believe is necessary to comply with the legal process. Similarly, if we believe that your account has been involved in wrongdoing, we may preserve your data to defend or assert our rights.
 
+----
+
 8. Your Privacy Choices.
 We enable you to make numerous choices about your data:
 • You may choose not to provide us with certain information. For example, you may choose not to create an account or not to provide optional account information.
@@ -96,21 +112,33 @@ We enable you to make numerous choices about your data:
 • You may close your account (which will delete all videos) or delete certain videos.
 Users from certain countries may have additional rights. See Section 14 for more details.
 
+----
+
 9. Account and Video Privacy Settings.
 Our video hosting and sharing tools do not offer the ability to limit the distribution of your content, including your videos. All videos on our platform are publicly-available. You may delete videos to make them inaccessible to others.
+
+----
 
 10. Communications from Us.
 Mobile Device Communications
 We may, with your consent, send push notifications in our apps. You may disable these by declining them or changing the app's settings. To the extent provided, we may, with your consent, send SMS messages to your mobile telephone for authentication and security purposes. You may opt out of receiving such messages at any time.
 
+----
+
 11. Protecting Your Information.
 We use physical, technical, and organizational security measures to safeguard your data from unauthorized or accidental disclosure. Despite these efforts, no information system can be 100% secure, so we cannot guarantee the absolute security of your information. Users also have a role to play in keeping their data safe. You should only grant access rights to people who you know and trust, and, even then, you should be careful in granting all access rights. You should monitor your account regularly. If you believe that someone has gained access to your account without your permission, please contact us immediately so that we can investigate.
+
+----
 
 12. Your Responsibilities
 You may receive other people's data in using our service. If you receive information from other users, you must comply with all laws, including those concerning privacy, data security, and online marketing.
 
+----
+
 13. Third-Party Services
 We may provide links to online services that we do not own or operate. These services fall outside of this Privacy Policy and we have no control over the data they collect. For example, if you click on a link to connect your STAR account to an eBay account, you may be taken to eBay's website. Once on a third-party site, your data may be collected by others. We encourage you to read the privacy policies of such services before using them.
+
+----
 
 14. International Data Transfers and Certain User Rights.
 14.1 Location of Data.
@@ -118,6 +146,8 @@ STAR is based in the United States. We provide services within the U.S. using co
 
 14.2 California User Rights.
 California residents have the right to opt out of disclosing information to third parties for the purpose of allowing such third parties to directly market their products and services. At this time, we do not engage in this type of disclosure. If you have questions, please contact us.
+
+----
 
 15. How to Contact Us.
 For any questions, inquiries, or complaints relating to your privacy, please send an email to:
