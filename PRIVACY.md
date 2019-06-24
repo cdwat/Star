@@ -26,7 +26,11 @@ Content
 Accountholders may create a profile and upload content such as videos, text, photographs, and artwork. Your profile may display information about you and your activities. This information may be accessed by others. Your videos may be viewed and otherwise accessed by others, and associated metadata (e.g., titles, descriptions, tags, etc.) are viewable by others. Your interactions with other users (e.g., comments, "likes," private messages) may be seen by others.
 
 Other Information You May Submit
-You may submit data to us for limited purposes such as requesting customer support; answering a questionnaire; participating in a study; or signing up to receive communications from us or another user.
+You may submit data to us for limited purposes such as:
+• Requesting customer support; 
+• Answering a questionnaire; 
+• Participating in a study; or 
+• Signing up to receive communications from us or another user.
 
 Automatically-Collected Information
 We automatically collect certain types of data when you use our services, regardless of whether you have an account. This data includes your IP address, technical information about your device (e.g., browser type, operating system, basic device information), the web page you visited or search query you entered before reaching us, and your activities. We may track your activities using mobile tracking technologies in order to, for example, authenticate you as a registered user, allow you to use the app’s features, and help us understand how our apps are being used. You cannot opt out of these mobile tracking technologies, but you may uninstall the app.
@@ -73,7 +77,12 @@ We may disclose user data in situations involving legal claims against us or one
 We may share your data with potential transaction partners, advisors, and others in the event our company is, in whole or part, acquired by a third party. In such case, we will use reasonable efforts to require the acquiring entity to comply with this Privacy Policy.
 
 7. Data Retention
-We retain your data for as long as you have an account. When you close an account, we will delete its content, including its videos. We may retain logs of automatically collected information (for internal analytics); your phone number; communications with you; and your transactional information (for auditing, tax, and financial purposes). When we no longer have a business reason for retaining data, we will delete or anonymize it.
+We retain your data for as long as you have an account. When you close an account, we will delete its content, including its videos. 
+We may retain:
+• Logs of automatically collected information (for internal analytics); 
+• Your phone number; and 
+• Communications with you.
+When we no longer have a business reason for retaining data, we will delete or anonymize it.
 
 We retain deleted videos on our servers for a short period in case you wish to reverse deletion. Once we delete a video, we may not be able to recover it.
 
