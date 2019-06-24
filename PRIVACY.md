@@ -39,10 +39,10 @@ Account holders may create a profile and upload content such as videos, text, ph
 Other Information You May Submit
 ------
 You may submit data to us for limited purposes such as:
-• Requesting customer support; 
-• Answering a questionnaire; 
-• Participating in a study; or 
-• Signing up to receive communications from us or another user.
+* Requesting customer support; 
+* Answering a questionnaire; 
+* Participating in a study; or 
+* Signing up to receive communications from us or another user.
 
 Automatically-Collected Information
 ------
@@ -56,14 +56,14 @@ Some third parties may collect data about you when you use our services. This ma
 ======
 
 We may use your data for the following purposes:
-• Identification and authentication: We use your data to verify you when you access your account.
-• Operating our services: We use your data to provide our services, process and fulfill orders, provide customer support, and to otherwise comply with our contractual obligations to you.
-• Communicating with you: We use your data when we communicate with you (e.g., when we respond to a customer support or other inquiry).
-• Improving our services: We use your data to understand how our services are being used and how we can improve them. In general, we analyze aggregated data, rather than specific user data. We may, however, need to analyze a specific case to address a specific problem (e.g., a bug that affects only a few accounts).
-• Customizing your experience: We use your data to personalize the service to you. This may include remembering your preferences for language or volume or displaying videos that you might enjoy, based upon your viewing choices.
-• Exercising our rights: Where reasonably necessary, we use your data to exercise our legal rights and prevent abuse of our service. For example, we may use your data to detect and prevent fraud, spam, or content that violates our Terms of Service.
-• Legal compliance: We use your data where we are legally required to do so. For example, we may need to gather your data to respond to a subpoena or court order.
-• Protecting your information: Where appropriate, we may anonymize, backup, and delete certain data.
+* Identification and authentication: We use your data to verify you when you access your account.
+* Operating our services: We use your data to provide our services, process and fulfill orders, provide customer support, and to otherwise comply with our contractual obligations to you.
+* Communicating with you: We use your data when we communicate with you (e.g., when we respond to a customer support or other inquiry).
+* Improving our services: We use your data to understand how our services are being used and how we can improve them. In general, we analyze aggregated data, rather than specific user data. We may, however, need to analyze a specific case to address a specific problem (e.g., a bug that affects only a few accounts).
+* Customizing your experience: We use your data to personalize the service to you. This may include remembering your preferences for language or volume or displaying videos that you might enjoy, based upon your viewing choices.
+* Exercising our rights: Where reasonably necessary, we use your data to exercise our legal rights and prevent abuse of our service. For example, we may use your data to detect and prevent fraud, spam, or content that violates our Terms of Service.
+* Legal compliance: We use your data where we are legally required to do so. For example, we may need to gather your data to respond to a subpoena or court order.
+* Protecting your information: Where appropriate, we may anonymize, backup, and delete certain data.
 
 We may use algorithms and other automated means to implement any of the above.
 
@@ -71,13 +71,13 @@ We may use algorithms and other automated means to implement any of the above.
 ======
 
 We share data with third parties as follows:
-• As you instruct: We may make your profile and videos available to others as you instruct in using our services. We may share your data with persons to whom you have granted account-level access.
-• With your consent: We may share your data with third parties where we have obtained your express consent to do so. You may revoke these consents.
-• Authorized vendors: We may share your data with third-party vendors that help us operate our services, process orders, and comply with your instructions and our contractual obligations. This includes content delivery networks (CDNs), cloud-based hosting services, monitoring services, email service providers, quality assurance and testing vendors, fraud and abuse prevention vendors, and customer relations management (CRM) vendors.
-• Analytics: We may share your data with persons who provide analytics showing how customers are using our services.
-• Affiliates and advisors: We may share your data with our parent company eBay, Inc ("eBay"), and our auditors and advisors for planning, financial reporting, accounting, auditing, tax filings, and legal compliance. Unless you expressly agree, we will not share your data with our parent or any affiliate for other purposes, such as direct marketing.
-• Certain legal situations: We may share your data where we believe disclosure is necessary to comply with a legal obligation or in connection with a corporate transaction as discussed in Section 6.
-• Aggregated or anonymized information: We may publicly disclose non-personal aggregated or anonymized information such as our number of visitors and registered users.
+* As you instruct: We may make your profile and videos available to others as you instruct in using our services. We may share your data with persons to whom you have granted account-level access.
+* With your consent: We may share your data with third parties where we have obtained your express consent to do so. You may revoke these consents.
+* Authorized vendors: We may share your data with third-party vendors that help us operate our services, process orders, and comply with your instructions and our contractual obligations. This includes content delivery networks (CDNs), cloud-based hosting services, monitoring services, email service providers, quality assurance and testing vendors, fraud and abuse prevention vendors, and customer relations management (CRM) vendors.
+* Analytics: We may share your data with persons who provide analytics showing how customers are using our services.
+* Affiliates and advisors: We may share your data with our parent company eBay, Inc ("eBay"), and our auditors and advisors for planning, financial reporting, accounting, auditing, tax filings, and legal compliance. Unless you expressly agree, we will not share your data with our parent or any affiliate for other purposes, such as direct marketing.
+* Certain legal situations: We may share your data where we believe disclosure is necessary to comply with a legal obligation or in connection with a corporate transaction as discussed in Section 6.
+* Aggregated or anonymized information: We may publicly disclose non-personal aggregated or anonymized information such as our number of visitors and registered users.
 
 We use reasonable efforts to vet vendors for their privacy and data security practices. We require that such vendors agree to protect the data we share.
 
@@ -102,9 +102,9 @@ We may share your data with potential transaction partners, advisors, and others
 We retain your data for as long as you have an account. When you close an account, we will delete its content, including its videos. 
 
 We may retain:
-• Logs of automatically collected information (for internal analytics); 
-• Your phone number; and 
-• Communications with you.
+* Logs of automatically collected information (for internal analytics); 
+* Your phone number; and 
+* Communications with you.
 When we no longer have a business reason for retaining data, we will delete or anonymize it.
 
 We retain deleted videos on our servers for a short period in case you wish to reverse deletion. Once we delete a video, we may not be able to recover it.
@@ -115,9 +115,9 @@ If we receive legal process pertaining to your account, we will retain your data
 ======
 
 We enable you to make numerous choices about your data:
-• You may choose not to provide us with certain information. For example, you may choose not to create an account or not to provide optional account information.
-• You may change or correct information voluntarily submitted to us. We encourage you to keep your data current by viewing your profile page.
-• You may close your account (which will delete all videos) or delete certain videos.
+* You may choose not to provide us with certain information. For example, you may choose not to create an account or not to provide optional account information.
+* You may change or correct information voluntarily submitted to us. We encourage you to keep your data current by viewing your profile page.
+* You may close your account (which will delete all videos) or delete certain videos.
 Users from certain countries may have additional rights. See Section 14 for more details.
 
 9․ Account and Video Privacy Settings
