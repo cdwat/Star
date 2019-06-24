@@ -1,4 +1,5 @@
 STAR Terms of Service Agreement
+
 Last Updated: June 23, 2019
 
 This STAR Terms of Service Agreement (the "Agreement" or "Terms of Service") is made between the development team behind STAR ("STAR," "we," "us," or "our") and you, our customer ("you" or "your"). STAR provides a video-first selling and promotion service (collectively, the "Services"). This Agreement governs your use of our Services.
