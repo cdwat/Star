@@ -1,14 +1,14 @@
 STAR Terms of Service Agreement
 Last Updated: June 23, 2019
 
-This STAR Terms of Service Agreement (the “Agreement" or “Terms of Service") is made between the development team behind STAR (“STAR," “we," “us," or “our") and you, our customer (“you" or “your"). STAR provides a video-first selling and promotion service (collectively, the “Services"). This Agreement governs your use of our Services.
+This STAR Terms of Service Agreement (the "Agreement" or "Terms of Service") is made between the development team behind STAR ("STAR," "we," "us," or "our") and you, our customer ("you" or "your"). STAR provides a video-first selling and promotion service (collectively, the "Services"). This Agreement governs your use of our Services.
 
 1․ Acceptance
 ================
 
 By creating an account, viewing videos, downloading our app, or otherwise visiting or using our Services, you accept this Agreement and consent to contract with us electronically.
 
-If you are an entity other than a natural person, the person who registers the account or otherwise uses our Services must have the authority to bind the entity. In this context, “you" means both the entity and each person who is authorized to access the account.
+If you are an entity other than a natural person, the person who registers the account or otherwise uses our Services must have the authority to bind the entity. In this context, "you" means both the entity and each person who is authorized to access the account.
 
 We may update this Agreement by posting a revised version on the iOS App Store. By continuing to use our Services, you accept any revised Agreement.
 
@@ -23,7 +23,7 @@ Service License: Subject to the terms hereof, we grant you access to our Service
 * Use all related functionality that we may provide.
 The features available to you may change from time to time.
 
-Downloadable Software: We may offer applications for devices (“Apps") directly or through third-party stores. Apps are governed by our End-User License Agreement ("EULA").
+Downloadable Software: We may offer applications for devices ("Apps") directly or through third-party stores. Apps are governed by our End-User License Agreement ("EULA").
 https://raw.githubusercontent.com/cdwat/Star/master/EULA.md
 
 3․ Accounts
@@ -69,7 +69,7 @@ In using our Services, you may not:
 * Act in a deceptive manner or impersonate any person or organization;
 * Harass or stalk any person;
 * Harm or exploit minors;
-* Distribute “spam" in any form or use misleading metadata;
+* Distribute "spam" in any form or use misleading metadata;
 * Collect personal information about others;
 * Access another’s account without permission;
 * Engage in any unlawful activity;
@@ -99,7 +99,7 @@ By submitting a video, you grant STAR permission to:
 * Stream the video to end users;
 * Distribute the video via our APIs;
 * Transcode the video (create compressed versions of your video file that are optimized for streaming); and
-* Generate stills (i.e., “thumbnails") from your video to represent it.
+* Generate stills (i.e., "thumbnails") from your video to represent it.
 By enabling access to your video to any third party, you grant each such person permission to stream (and/or download or embed, as applicable) your video. For the purposes of this Section 5.1, your video includes its title, description, tags, and other metadata.
 
 The license period begins when you submit the video to STAR and ends when you or STAR delete it; provided that STAR may retain archival copies: 
@@ -120,7 +120,7 @@ Content that is not covered by the licenses set forth in Sections 5.1 or 5.2 sha
 All licenses granted by you in this Section 5: 
 (a) are non-exclusive, worldwide, and royalty-free; 
 (b) include the right and license to copy, use, distribute, publicly perform, and display the licensed work for the purposes stated above; and 
-(c) include all necessary rights and licenses to allow us to exercise our rights and perform our obligations. By granting these licenses, you waive any so-called “moral rights" that you may have. Nothing in this Agreement shall be deemed a license “condition" applicable to STAR; rather, any breach of a term by STAR hereof shall give rise to, at most, a claim for breach of contract only.
+(c) include all necessary rights and licenses to allow us to exercise our rights and perform our obligations. By granting these licenses, you waive any so-called "moral rights" that you may have. Nothing in this Agreement shall be deemed a license "condition" applicable to STAR; rather, any breach of a term by STAR hereof shall give rise to, at most, a claim for breach of contract only.
 
 6․ Your Obligations
 ================
@@ -154,7 +154,7 @@ In the event of any termination or expiration, the following sections will survi
 8․ Disclaimers
 ================
 
-STAR PROVIDES THE SERVICES ON AN “AS IS" AND “AS AVAILABLE" BASIS. YOU USE THE SERVICES AT YOUR OWN RISK. You must provide your own device and Internet access.
+STAR PROVIDES THE SERVICES ON AN "AS IS" AND "AS AVAILABLE" BASIS. YOU USE THE SERVICES AT YOUR OWN RISK. You must provide your own device and Internet access.
 
 EXCEPT AS EXPRESSLY SET FORTH HEREIN, AND TO THE EXTENT PERMITTED BY APPLICABLE LAW, STAR DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. Among other things, STAR makes no representations or warranties:
 * That our Services, or any part thereof, will be available or permitted in your jurisdiction, uninterrupted or error-free, or accessible from all devices or browsers;
