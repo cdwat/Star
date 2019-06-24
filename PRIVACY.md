@@ -112,7 +112,7 @@ We retain deleted videos on our servers for a short period in case you wish to r
 
 If we receive legal process pertaining to your account, we will retain your data for as long as we in good faith believe is necessary to comply with the legal process. Similarly, if we believe that your account has been involved in wrongdoing, we may preserve your data to defend or assert our rights.
 
-8․ Your Privacy Choices.
+8․ Your Privacy Choices
 ================
 
 We enable you to make numerous choices about your data:
@@ -147,7 +147,7 @@ You may receive other people's data in using our service. If you receive informa
 
 We may provide links to online services that we do not own or operate. These services fall outside of this Privacy Policy and we have no control over the data they collect. For example, if you click on a link to connect your STAR account to an eBay account, you may be taken to eBay's website. Once on a third-party site, your data may be collected by others. We encourage you to read the privacy policies of such services before using them.
 
-14․ International Data Transfers and Certain User Rights.
+14․ International Data Transfers and Certain User Rights
 ================
 
 14․1 Location of Data
