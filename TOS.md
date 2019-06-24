@@ -24,7 +24,6 @@ Service License: Subject to the terms hereof, we grant you access to our Service
 The features available to you may change from time to time.
 
 Downloadable Software: We may offer applications for devices ("Apps") directly or through third-party stores. Apps are governed by our End-User License Agreement ("EULA").
-https://raw.githubusercontent.com/cdwat/Star/master/EULA.md
 
 3․ Accounts
 ================
