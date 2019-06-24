@@ -1,4 +1,4 @@
-STAR iOS App  End-User License Agreement
+STAR iOS App End-User License Agreement
 Last Updated: June 23, 2019
 
 Acknowledgement
